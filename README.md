@@ -66,15 +66,8 @@ Chancellor’s Award Recipient ($48,000 Scholarship)
 
 - **[RateMyUniversity](#)**: MERN stack web app for university ratings (5,000+ daily submissions, 1TB+ data)
 - **[DailyThoughts](#)**: Django journaling app with PostgreSQL & AWS (10,000+ entries, secure auth)
-- **Urban Traffic Accident Analysis**: Python, Alteryx, Talend, Tableau, Power BI for real-time insights
-- **IMDB Data Warehousing**: BI pipeline for movie analytics (Alteryx, Talend, SQL, Tableau, Power BI)
-- **Intrusion Detection System**: Snort, ELK Stack, Wireshark for network threat monitoring
-- **Firewall & VPN Lab**: pfSense, OpenVPN, Linux for secure virtual lab environments
-- **Linux Security Hardening Script**: Bash script for auditing and compliance
-- **Malware Analysis Sandbox**: VirtualBox, REMnux, ProcMon, Wireshark for dynamic malware analysis
-- **Splunk SIEM Threat Dashboard**: Splunk, Syslog, Regex for attack trend visualization
-- **Phishing Awareness Campaign**: Gophish, analytics, and educational content
-- **AWS Cloud Security Compliance**: IAM, Config, S3 policies for best practices
+- [Cybersecurity Labs](#): IDS setup, firewall tuning, phishing simulations
+- [AWS Cloud Security Compliance](#): IAM, Config, S3 policies for best practices
 
 ---
 
