@@ -1,5 +1,5 @@
    <p align="center">
-     <img src="6ba78116-8fce-42ec-963e-cc428bb87239.JPG" width="200" style="border-radius:50%" alt="Anish Shetty"/>
+     <img src="anipic.JPG" width="200" style="border-radius:50%" alt="Anish Shetty"/>
    </p>
 
 
